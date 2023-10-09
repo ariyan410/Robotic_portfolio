@@ -3,6 +3,9 @@
 1. Chassis build
 * Built the frame
 * Mounted motors, axles and wheels
+
+  https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true
+  
 2. Testing
 * Temporarily mounted the brain, batter and transmitter to test the motors
 * And its a success!
