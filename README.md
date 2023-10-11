@@ -4,6 +4,9 @@
 * Built the frame
 * Mounted motors, axles and wheels
 
+  ![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
+
+
 2. Testing
 * Temporarily mounted the brain, batter and transmitter to test the motors
 * And its a success!
@@ -23,4 +26,4 @@
 7. Modified grabber pt2
 * This picture shows the tracks and more clips added onto it
 
-[Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
+![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
