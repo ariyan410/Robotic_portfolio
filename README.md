@@ -4,7 +4,7 @@
 * Built the frame
 * Mounted motors, axles and wheels
 
-  ![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
+![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
 
 
 2. Testing
