@@ -23,4 +23,4 @@
 7. Modified grabber pt2
 * This picture shows the tracks and more clips added onto it
 
-![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
+[Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
