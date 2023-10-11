@@ -6,18 +6,27 @@
 
 ![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
 
-
 2. Testing
 * Temporarily mounted the brain, batter and transmitter to test the motors
 * And its a success!
+
+![Testing](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/IMG_0686.jpg?raw=true)
+
 3. Permanent mount
 * Built a case below the motors and added batter clips
 * Mounted the brain, battery and the transmitter permanently
-4. Built the grabber
+
+![Permanent mount](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/IMG_0760.jpg?raw=true)
+  
+4. The grabber
 * Built the frame for the grabber
 * Attached motors and tracks with clips on it
 * The clips on the track hits a screw while moving which causes friction
-5. Built the grabber pt2 (Connection)
+
+(![image](https://github.com/ariyan410/Robotic_portfolio/assets/143030217/dc056479-38cc-4979-b978-5efbad1bf052)
+
+
+5. The grabber pt2 (Connection)
 * This picture displays how the motors and tracks are connected on the back end
 6. Modified grabber
 * Modified and refined the frame of the grabber using more aluminum
@@ -25,5 +34,3 @@
 * The motors are directly connected to the tracks from the other side
 7. Modified grabber pt2
 * This picture shows the tracks and more clips added onto it
-
-![Chassis build](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/Chassis%20build.jpg?raw=true)
