@@ -7,14 +7,14 @@
 ![image](https://github.com/ariyan410/Robotic_portfolio/assets/143030217/cd7b2e8f-2423-4de9-9720-31dafd561c84)
 
 2. Testing
-* Temporarily mounted the brain, batter and transmitter to test the motors
+* Temporarily mounted the brain, battery and transmitter to test the motors
 * And its a success!
 
 ![image](https://github.com/ariyan410/Robotic_portfolio/assets/143030217/daaa968c-c5a0-4544-af54-0671092a8674)
 
 
 3. Permanent mount
-* Built a case below the motors and added batter clips
+* Built a case below the motors and added battery clips
 * Mounted the brain, battery and the transmitter permanently
 
 ![image](https://github.com/ariyan410/Robotic_portfolio/assets/143030217/dac5ded3-79dc-4671-8591-ba65d6611a90)
