@@ -11,7 +11,13 @@ Documenter - Ariyan Islam
 
 # Table of Contents
 
-1. [1. Chassis Build](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#1-chassis-build)
+1. [Chassis Build](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#1-chassis-build)
+2. [Testing](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#2-testing)
+3. [Permanent Mount](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#3-permanent-mount)
+4. [The Grabber](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#4-the-grabber)
+5. [The Grabber pt2 (Connection)](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#5-the-grabber-pt2-connection)
+6. [Modified Grabber](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#6-modified-grabber)
+7. [Modified Grabber pt2](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#7-modified-grabber-pt2)
 
 # 1. Chassis build
 * Built the frame
