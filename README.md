@@ -11,6 +11,7 @@ Documenter - Ariyan Islam
 
 # Table of Contents
 
+* [Sketches]
 1. [Chassis Build](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#1-chassis-build)
 2. [Testing](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#2-testing)
 3. [Permanent Mount](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#3-permanent-mount)
