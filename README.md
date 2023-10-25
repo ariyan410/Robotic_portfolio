@@ -1,5 +1,5 @@
-# Documentation
-**Our Team:**
+# Frogie-Robotics
+### Team Members:
 
 * Builder - Jake Simmons
 
@@ -8,6 +8,16 @@
 * Driver - Charlie Peiper
 
 * Documenter - Ariyan Islam
+
+## Objective
+Our objective is to create a bot that is
+- Maneuverable
+- Easy to drive
+- Versatile
+
+## Features
+- Settings menu to adjust controller sensitivity
+- Holonomic drive for extra maneuverability
 
 # Table of Contents
 
@@ -67,19 +77,3 @@
 * This picture shows the tracks and more clips added onto it
 
 ![image](https://github.com/ariyan410/Robotic_portfolio/assets/143030217/87bd1b84-f075-489b-9e0b-7335ee2eea43)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
