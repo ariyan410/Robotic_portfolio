@@ -11,7 +11,7 @@ Documenter - Ariyan Islam
 
 # Table of Contents
 
-1. https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#1-chassis-build
+1. [1. Chassis Build](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#1-chassis-build)
 
 # 1. Chassis build
 * Built the frame
