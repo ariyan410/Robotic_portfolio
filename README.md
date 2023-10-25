@@ -1,13 +1,13 @@
 # Documentation
-**Team:**
+**Our Team:**
 
-Builder:    Jake Simmons
+Builder -    Jake Simmons
 
-Coder:      Oliver Fedderson
+Coder -      Oliver Fedderson
 
-Driver:     Charlie Peiper
+Driver -     Charlie Peiper
 
-Documenter: Ariyan Islam
+Documenter - Ariyan Islam
 
 # 1. Chassis build
 * Built the frame
