@@ -1,7 +1,7 @@
 # Documentation
 Team:
 
-Builder:    Jake Simmons--
+Builder:    Jake Simmons --
 Coder:      Oliver Fedderson
 Driver:     Charlie Peiper
 Documenter: Ariyan Islam
