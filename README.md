@@ -1,11 +1,11 @@
 # Documentation
 **Our Team:**
 
-Builder -    Jake Simmons
+Builder - Jake Simmons
 
-Coder -      Oliver Fedderson
+Coder - Oliver Fedderson
 
-Driver -     Charlie Peiper
+Driver - Charlie Peiper
 
 Documenter - Ariyan Islam
 
