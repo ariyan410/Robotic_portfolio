@@ -31,7 +31,9 @@ Our objective is to create a bot that is
 7. [Modified Grabber pt2](https://github.com/ariyan410/Robotic_portfolio/blob/main/README.md#7-modified-grabber-pt2)
 
 # Sketches
-![image]()
+![image](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/IMG_1774.jpg?raw=true)
+![image](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/IMG_1775.jpg?raw=true)
+![image](https://github.com/ariyan410/Robotic_portfolio/blob/main/images/IMG_1776.jpg?raw=true)
 
 # 1. Chassis build
 * Built the frame
